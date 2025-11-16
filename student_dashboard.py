@@ -243,3 +243,4 @@ class StudentForm:
     def open_change_info_popup(self): 
         current_sdt = self.sdt_var.get(); 
         ChangeInfoWindow(self.window, self.student_id, current_sdt)
+        

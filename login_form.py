@@ -119,3 +119,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = LoginForm(root) # Tạo instance của lớp LoginForm
     root.mainloop()
+    

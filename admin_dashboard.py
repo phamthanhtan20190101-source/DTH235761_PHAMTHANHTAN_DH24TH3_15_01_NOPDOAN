@@ -622,4 +622,5 @@ class AdminDashboard:
             else: messagebox.showerror("Lỗi CSDL", f"Không thể lưu.\nChi tiết: {ex}")
         finally: conn.autocommit = True; conn.close()
 
+
             
