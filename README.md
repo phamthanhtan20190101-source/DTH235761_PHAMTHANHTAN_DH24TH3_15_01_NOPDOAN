@@ -49,7 +49,6 @@ Cho phép nhân viên quản lý thực hiện các chức năng cơ bản như:
 
 ---
 
-
 ## 🗄️ Cấu trúc cơ sở dữ liệu
 Cơ sở dữ liệu MySQL gồm các bảng chính:
 
@@ -115,7 +114,7 @@ Cơ sở dữ liệu MySQL gồm các bảng chính:
 - 🔗 **ODBC Driver:** Cài đặt **ODBC Driver 17 for SQL Server** (hoặc bản mới hơn) để Python có thể kết nối với SQL Server.  
 - 📦 **Các thư viện Python cần thiết:**  
 ### 2️⃣ Tạo cơ sở dữ liệu MySQL
-### 3️⃣ Cấu hình kết nối MySQL  
+### 3️⃣ Viết mã Python kết nối MySQL  
 ### 4️⃣ Chạy chương trình
 
 ---
