@@ -108,12 +108,6 @@ Cơ sở dữ liệu MySQL gồm các bảng chính:
 
 ## 🚀 Cách cài đặt & chạy chương trình
 
-### 1️⃣ Cài đặt môi trường
-Yêu cầu:
-- Python : Đảm bảo bạn đã cài đặt Python trên máy tính/ laptop của mình
-- SQL Server: Cài đặt SQL Sever và tạo một cơ sở dữ liệu để lưu trữ
-- Các thư viện cần thiết: mysql-connector-python: Cài đặt thư viện này để kết nối Python với cơ sở dữ liệu SQL Sever
-
 ### 1️⃣ Cài đặt môi trường  
 **Yêu cầu:**  
 - 🐍 **Python:** Đảm bảo bạn đã cài đặt Python trên máy tính của mình.
