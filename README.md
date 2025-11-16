@@ -50,7 +50,7 @@ Cho phép nhân viên quản lý thực hiện các chức năng cơ bản như:
 ---
 
 ## 🗄️ Cấu trúc cơ sở dữ liệu
-Cơ sở dữ liệu MySQL gồm các bảng chính:
+Cơ sở dữ liệu SQL Server gồm các bảng chính:
 
 ### 🏢 **Bảng ToaNha**
 | Tên cột | Kiểu dữ liệu | Ghi chú |
@@ -127,7 +127,7 @@ Cơ sở dữ liệu MySQL gồm các bảng chính:
 ---
 
 ## 🏁 Kết luận
-Dự án Ứng dụng quản lý ký túc xá giúp sinh viên vận dụng kiến thức **Python, Tkinter, MySQL** để xây dựng ứng dụng thực tế phục vụ công tác quản lý ký túc xá một cách hiệu quả và chính xác.  
+Dự án Ứng dụng quản lý ký túc xá giúp sinh viên vận dụng kiến thức **Python, Tkinter, SQL Server** để xây dựng ứng dụng thực tế phục vụ công tác quản lý ký túc xá một cách hiệu quả và chính xác.  
 
 ## 📜 Giấy phép
 Dự án phục vụ mục đích **học tập** trong môn *Lập trình Python – Đại học An Giang*.  
