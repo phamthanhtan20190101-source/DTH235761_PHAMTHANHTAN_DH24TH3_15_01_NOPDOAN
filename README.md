@@ -122,7 +122,7 @@ Cơ sở dữ liệu SQL Server gồm các bảng chính:
 ## 👨‍💻 Nhóm thực hiện đồ án
 | Họ tên         | Mã số SV  |
 |----------------|-----------|
-| Phạm Thanh Tân | DTH234761 | 
+| Phạm Thanh Tân | DTH235761 | 
 | Vũ Thị Yến Vy  | DTH235820 | 
 ---
 
